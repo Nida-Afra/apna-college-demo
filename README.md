@@ -1,4 +1,4 @@
 # apna-college-demo
 This is my first repo
 <br>
-Author- Nida Afra
+Author- Nida Afra(software engg)
